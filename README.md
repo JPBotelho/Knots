@@ -34,8 +34,8 @@ Just messing around with knots of different sizes.
 
 ![Algorithm](Renders/Knot1.png "Algorithm")
 ![Algorithm](Renders/Knot2.png "Algorithm")
-![Algorithm](Renders/Knot3.png "Algorithm")
-![Algorithm](Renders/Knot4.png "Algorithm")
+![Algorithm](Renders/Knot3.PNG "Algorithm")
+![Algorithm](Renders/Knot4.PNG "Algorithm")
 ![Algorithm](Renders/Knot5.png "Algorithm")
 ![Algorithm](Renders/Knot5Inside.png "Algorithm")
 
