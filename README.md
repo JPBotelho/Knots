@@ -26,7 +26,20 @@ It was then just a matter of linking these vertices together to make a mesh.
 # Renders
 
 ## Animation
+## [Youtube Link](https://www.youtube.com/watch?v=3tbUSpIiOCI)
 Just messing around with knots of different sizes. 
-![Algorithm](Renders/anim.mp4 "Algorithm")
+![Algorithm](Renders/Animation.png "Algorithm")
+
+## Single Knots
+
+![Algorithm](Renders/Knot1.png "Algorithm")
+![Algorithm](Renders/Knot2.png "Algorithm")
+![Algorithm](Renders/Knot3.png "Algorithm")
+![Algorithm](Renders/Knot4.png "Algorithm")
+![Algorithm](Renders/Knot5.png "Algorithm")
+![Algorithm](Renders/Knot5Inside.png "Algorithm")
+
+
+
 
 
