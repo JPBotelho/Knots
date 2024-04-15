@@ -6,7 +6,6 @@ http://paulbourke.net/geometry/knots/
 ## Writeup
 
 
-Knots in maths are some weirdly defined topoly jargon. 
 Wikipedia:
 
     In mathematics, a knot is an embedding of a topological circle S1 in 3-dimensional Euclidean space, R3 (also known as E3), considered up to continuous deformations (isotopies).
